@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order OrderNo="ORD401" TotalWeight="1.416" TotalValue="16.2">
+    <Consignments>
+      <Consignment ConsignmentNo="CON001">
+        <Parcels>
+          <Parcel ParcelCode="PARC001">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Pen" ItemWeight="0.004" ItemValue="1.1" ItemQuantity="1" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Luca Berg" />
+            </ParcelsItems>
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Crayon" ItemWeight="0.204" ItemValue="2.1" ItemQuantity="1" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Umiti Berb" />
+            </ParcelsItems>
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Leads" ItemWeight="0.304" ItemValue="3.1" ItemQuantity="1" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Bog Fedrer" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+        <Parcels>
+          <Parcel ParcelCode="PARC002">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Pencil Case" ItemWeight="0.3" ItemValue="3.4" ItemQuantity="2" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Marlow Nadal" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+      </Consignment>
+    </Consignments>
+    <Consignments>
+      <Consignment ConsignmentNo="CON002">
+        <Parcels>
+          <Parcel ParcelCode="PARC001">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Rubber" ItemWeight="0.304" ItemValue="3.1" ItemQuantity="1" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Jack Berb" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+        <Parcels>
+          <Parcel ParcelCode="PARC002">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="USD" ItemDescription="Sharpner" ItemWeight="0.3" ItemValue="3.4" ItemQuantity="2" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Rob Michal" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+      </Consignment>
+    </Consignments>
+  </Order>
+  <Order OrderNo="ORD402" TotalWeight="0.5" TotalValue="7">
+    <Consignments>
+      <Consignment ConsignmentNo="CON002">
+        <Parcels>
+          <Parcel ParcelCode="PARC003">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Socks" ItemWeight="0.5" ItemValue="7" ItemQuantity="1" CountryCode="GB" State="" City="London" Address2="Peckham" Address1="10 Baker Street" ConsigneeName="Frank Berg" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+      </Consignment>
+    </Consignments>
+  </Order>
+  <Order OrderNo="ORD403" TotalWeight="1.9" TotalValue="80">
+    <Consignments>
+      <Consignment ConsignmentNo="CON003">
+        <Parcels>
+          <Parcel ParcelCode="PARC004">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="GBP" ItemDescription="Pen" ItemWeight="1.9" ItemValue="80" ItemQuantity="1" CountryCode="GB" State="London" City="" Address2="Brixton" Address1="10 Downing St" ConsigneeName="D Cameron" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+      </Consignment>
+    </Consignments>
+  </Order>
+  <Order OrderNo="ORD404" TotalWeight="1.9" TotalValue="90">
+    <Consignments>
+      <Consignment ConsignmentNo="CON004">
+        <Parcels>
+          <Parcel ParcelCode="PARC005">
+            <ParcelsItems>
+              <ParcelItem ItemCurrency="EUR" ItemDescription="Stilos Roj�" ItemWeight="1.9" ItemValue="90" ItemQuantity="1" CountryCode="IT" State="" City="Milano" Address2="Dulce Av." Address1="Casa di Bolos" ConsigneeName="Luigi Da Vinci" />
+            </ParcelsItems>
+          </Parcel>
+        </Parcels>
+      </Consignment>
+    </Consignments>
+  </Order>
+</Orders>

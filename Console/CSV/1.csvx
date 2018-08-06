@@ -1,0 +1,13 @@
+
+
+Order No, Consignment No, Parcel Code,Consignee Name, Address 1, Address 2, City, State, Country Code,Item Quantity, Item Value, Item Weight, Item Description,Item Currency
+ORD101,CON001,PARC001,Luca Berg,10 Baker Street,Peckham,London,,GB,1,1.1,0.004,Pen,
+ORD101,CON001,PARC001,Umiti Berb,10 Baker Street,Peckham,London,,GB,1,2.1,0.204,Crayon,GBP
+ORD101,CON001,PARC001,Bog Fedrer,10 Baker Street,Peckham,London,,GB,1,3.1,0.304,Leads,GBP
+ORD101,CON001,PARC002,Marlow Nadal,10 Baker Street,Peckham,London,,GB,2,3.4,0.3,Pencil Case,
+ORD101,CON002,PARC201,Jack Berb,10 Baker Street,Peckham,London,,GB,1,3.1,0.304,Rubber,GBP
+ORD101,CON002,PARC202,Rob Michal,10 Baker Street,Peckham,London,,GB,2,3.4,0.3,Sharpner,USD
+ORD102,CON002,PARC003,Frank Berg,10 Baker Street,Peckham,London,,GB,1,7,0.5,Socks,
+ORD103,CON003,PARC004,D Cameron,10 Downing St,Brixton,,London,GB,1,80,1.9,Pen,
+
+ORD104,CON004,PARC005,Luigi Da Vinci,Casa di Bolos,Dulce Av.,Milano,,IT,1,90,1.9,Stilos Roj¢,EUR
